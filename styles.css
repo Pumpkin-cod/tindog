@@ -1,0 +1,72 @@
+.icon {
+color: #ef8172;
+margin-bottom: 1rem;
+}
+
+.icon:hover{
+    color: #ff4c68;
+}
+
+.bi-heart-fill {
+    height: 32px !important;
+    width: 32px !important;
+}
+
+.title-image {
+    width: 100%;
+    transform: rotate(25deg);
+    padding-bottom: 2rem;
+    
+}
+#features {
+    padding: 7% 15%;  
+}
+
+#cta{
+    padding: 7% 15%;
+}
+
+
+h2{
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+#testimonials {
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #6C757D;
+    color: #ffffff;
+}
+.testimonial-image {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.carousel-item{
+    padding: 7% 15%;
+}
+
+
+#press{
+    background-color: #6C757D;
+    text-align: center;
+    padding-bottom: 3%;
+}
+.press-logo {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+#footer{
+    padding: 7% 15%;
+}
+
+.social{
+    margin: 20px 10px; 
+}
+
+.copy{
+    margin-top: 20px;
+}
